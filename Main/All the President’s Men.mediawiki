@@ -1,0 +1,8 @@
+{{Book
+|Authors=Bob Woodward,Carl Bernstein
+|ISBN=1476770514
+|Genres=Politics, Journalism
+|Year of publication=2014
+|Number of pages=368
+}}
+

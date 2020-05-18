@@ -1,0 +1,9 @@
+{{Book
+|Authors=Yaron Koren
+|ISBN=9780615720302
+|Genres=Computers
+|Year of publication=2012
+|Number of pages=292
+}}
+"Working with MediaWiki" is the most up-to-date guide to MediaWiki, the world's most popular wiki software. MediaWiki is best known for running Wikipedia, but it's also used by organizations and communities of every type and size, from fans of television shows to major companies storing vital corporate data. In around 300 pages, and accompanied by dozens of diagrams and examples, "Working with MediaWiki" clarifies how to use MediaWiki effectively, from the basics like wiki syntax to topics like creating data structures, controlling spam and improving search. "Working with MediaWiki" was first released in 2012; this 2nd edition features significant changes and additions, including new screenshots, new extensions, and a new foreword by Gentoo Linux and Funtoo Linux founder Daniel Robbins.
+
