@@ -1,5 +1,5 @@
 {{Author
 |Country of origin=Israel
 }}
-Yaron Koren grew up in Israel and the United States. He has been a professional programmer since 1998. He has been doing MediaWiki development since 2006, and MediaWiki consulting since 2007. He currently runs the MediaWiki consulting company WikiWorks, and the MediaWiki-based wiki farm Referata.
+Yaron Koren grew up in Israel and the United States. He has been a professional programmer since 1998. He has been doing MediaWiki development since 2006, and MediaWiki consulting since 2007. He currently runs the MediaWiki consulting company [http://wikiworks.com/ WikiWorks], and the MediaWiki-based wiki farm Referata.
 
